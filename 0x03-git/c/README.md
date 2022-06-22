@@ -1,17 +1,4 @@
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   ../README.md
-	deleted:    ../../bash/alx
-	deleted:    ../../bash/school
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	../bash/README.md
-	./
-	../js/
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[main 15a7dfb] Starting to code today, so cool
+ 2 files changed, 17 insertions(+)
+ create mode 100644 0x03-git/c/README.md
+ create mode 100644 0x03-git/c/c_is_fun.c

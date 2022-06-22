@@ -1,4 +1,4 @@
-[main f502879] Starting to code today, so cool
- 2 files changed, 4 insertions(+)
- create mode 100644 0x03-git/bash/alx
- create mode 100644 0x03-git/bash/school
+[update_script e1e0536] My personal work
+ 4 files changed, 6 insertions(+), 2 deletions(-)
+ create mode 100644 0x03-git/bash/98
+ create mode 100644 0x03-git/bash/README.md
